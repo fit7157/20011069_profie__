@@ -1,0 +1,74 @@
+.heading{
+    display:flex;
+    background-color:antiquewhite;
+}
+.heading .teacher{
+    margin-top:20px;
+}
+
+.heading .info{
+    font-size:20px;
+    line-height:1;
+}
+.heading .info h1{
+    margin-top:10px;
+}
+.heading .info .phone{
+   line-height:.5;
+}
+.heading .info .school{
+    margin-top:5px;
+}
+.heading .logo{
+    padding-left:150px;
+    margin-top:30px;
+}
+.education
+{
+    margin-top:20px;
+    border-style:dotted;
+    border-color:burlywood;
+    background-color:lightgoldenrodyellow;
+}
+.education h1{
+    background-color:antiquewhite;
+}
+.education .bachelors{
+}
+.education .bachelors h2{
+    background-color:aquamarine;
+    font-style:italic;
+}
+.education .masters{
+}
+.education .masters h2{
+    background-color:aquamarine;
+    font-style:italic;
+}
+.education .phd{
+}
+.education .phd h2{
+    background-color:aquamarine;
+    font-style:italic;
+}
+.professional{
+    margin-top:20px;
+    border-style:dotted;
+    border-color:burlywood;
+    background-color:lightblue;
+}
+.professional h1{
+    border-bottom-style: solid;
+    background-color:antiquewhite;
+}
+.technical{
+    margin-top:20px;
+
+    border-style:dotted;
+    border-color:burlywood;
+    background-color:lightgray;   
+}
+.technical h1{
+    border-bottom-style:solid;
+    background-color:antiquewhite;
+}
